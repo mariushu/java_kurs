@@ -1,9 +1,9 @@
 package pl.stqa.ptf.sandbox;
 
-public class myfirstprogram {
-	
-  public static void main (String[] args) {
-    System.out.println("Hello, World");
+public class Myfirstprogram {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World");
     }
-	
+
 }	
